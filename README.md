@@ -1,4 +1,4 @@
-QtumFinSys Core staging
+QtumFinSys Core
 ===========================
 
 
